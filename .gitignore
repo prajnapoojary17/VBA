@@ -1,0 +1,6 @@
+vendor/
+/nbproject/private/
+/api/nbproject/private/
+nbproject/
+storage/
+api/app/Http/VTransferController.php_07-07-2017
